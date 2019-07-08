@@ -1,5 +1,7 @@
 # LCD Basic "Hello World"
+This tutorial explains how to set up an LCD1602 with an I2C Backpack and display a "Hello World" message using Arduino Uno.
 
+## Parts:
 - LCD1602 + I2C Backpack
 - Arduino Uno
 - Jumper wires
